@@ -23,11 +23,6 @@ Ehemplo de lista numerada:
 1. Lista 1
 2. Lista 2
 
-Lista generada
-
-- Lista 1
-- Lista 2
-
 `cont name = 'Michael'`
 
 Texto con **negrita**
