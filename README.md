@@ -1,4 +1,4 @@
-# <u>Encabezado H1</u>
+# Encabezado H1
 
 ## Encabezado H2
 
